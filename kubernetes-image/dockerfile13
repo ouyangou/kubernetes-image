@@ -1,1 +1,1 @@
-FROM Kube-proxy (Windows): registry.k8s.io/sig-windows/kube-proxy
+FROM registry.k8s.io/sig-windows/kube-proxy:v1.28.4
