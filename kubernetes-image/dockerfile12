@@ -1,1 +1,1 @@
-FROM quay.io/flannel/flannel:v0.22.0-windows-amd64
+FROM --platform=windows/amd64 quay.io/flannel/flannel:v0.22.0
