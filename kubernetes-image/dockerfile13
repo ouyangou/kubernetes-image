@@ -1,0 +1,1 @@
+FROM Kube-proxy (Windows): registry.k8s.io/sig-windows/kube-proxy
